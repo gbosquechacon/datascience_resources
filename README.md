@@ -37,6 +37,8 @@ Sites:
 - [Data Science Reddit](https://www.reddit.com/r/datascience/)
 - [Berkeley Artificial Intelligence Research](https://bair.berkeley.edu/blog/)
 - [Airbnb Data Science](https://medium.com/airbnb-engineering/tagged/data-science)
+- [Deepmind](https://deepmind.com/blog)
+- [Google AI](https://blog.google/technology/ai/)
 
 Useful links:
 - [Python Plotting for Exploratory Data Analysis](https://pythonplot.com/)
