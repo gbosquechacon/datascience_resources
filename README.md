@@ -11,3 +11,7 @@ Talks:
 
 People & Blogs:
 1. Jason Brownlee [blog](https://machinelearningmastery.com/blog/)
+2. Jack VanderPlas [site](http://vanderplas.com/)
+3. James Somers [site](https://jsomers.net/)
+4. Cassie Kozyrkov [medium](https://medium.com/@kozyrkov) and [podcast](https://soundcloud.com/cassie-kozyrkov/sets)
+5. Chris Fonnesbeck [git](https://github.com/fonnesbeck)
