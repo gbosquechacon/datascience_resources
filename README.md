@@ -1,9 +1,9 @@
 Books:
-1. [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/) by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani.
-2. [Elements of Statisitcal Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) by Trevor Hastie, Robert Tibshirani and Jerome Friedman.
-3. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen.
-4. [Dive into Deep Learning](http://d2l.ai/index.html) by Aston Zhang, Zack C. Lipton, Mu Li and Alex J. Smola.
-5. [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/) by Richard McElreath.
+- [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/) by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani.
+- [Elements of Statisitcal Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) by Trevor Hastie, Robert Tibshirani and Jerome Friedman.
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen.
+- [Dive into Deep Learning](http://d2l.ai/index.html) by Aston Zhang, Zack C. Lipton, Mu Li and Alex J. Smola.
+- [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/) by Richard McElreath.
 
 Articles, Posts:
 - [The AI Hierarchy of Needs](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007)
@@ -15,16 +15,16 @@ Articles, Posts:
 Talks:
 
 People & Blogs:
-1. Jason Brownlee [blog](https://machinelearningmastery.com/blog/)
-2. Jack VanderPlas [site](http://vanderplas.com/)
-3. James Somers [site](https://jsomers.net/)
-4. Cassie Kozyrkov [medium](https://medium.com/@kozyrkov) and [podcast](https://soundcloud.com/cassie-kozyrkov/sets)
-5. Chris Fonnesbeck [git](https://github.com/fonnesbeck)
-6. Sebastian Ruder [blog](https://ruder.io/)
-7. Vincent D. Warmerdam [blog](http://koaning.io/)
-8. Chris Albon [blog](https://chrisalbon.com/)
-9. Monica Rogati [twitter](https://twitter.com/mrogati)
-10.Vicky Boykis [blog](http://veekaybee.github.io/)
+- Jason Brownlee [blog](https://machinelearningmastery.com/blog/)
+- Jack VanderPlas [site](http://vanderplas.com/)
+- James Somers [site](https://jsomers.net/)
+- Cassie Kozyrkov [medium](https://medium.com/@kozyrkov) and [podcast](https://soundcloud.com/cassie-kozyrkov/sets)
+- Chris Fonnesbeck [git](https://github.com/fonnesbeck)
+- Sebastian Ruder [blog](https://ruder.io/)
+- Vincent D. Warmerdam [blog](http://koaning.io/)
+- Chris Albon [blog](https://chrisalbon.com/)
+- Monica Rogati [twitter](https://twitter.com/mrogati)
+- Vicky Boykis [blog](http://veekaybee.github.io/)
 
 Sites:
 - [DominoDatalab](https://blog.dominodatalab.com/)
