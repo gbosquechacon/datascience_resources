@@ -34,6 +34,7 @@ Sites:
 - [Harvard Data Science Review](https://hdsr.mitpress.mit.edu/)
 - [Data Science Reddit](https://www.reddit.com/r/datascience/)
 - [Berkeley Artificial Intelligence Research](https://bair.berkeley.edu/blog/)
+- [Airbnb Data Science](https://medium.com/airbnb-engineering/tagged/data-science)
 
 Extras:
 - [Python Plotting for Exploratory Data Analysis](https://pythonplot.com/)
