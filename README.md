@@ -26,6 +26,8 @@ People & Blogs:
 - Monica Rogati [twitter](https://twitter.com/mrogati)
 - Vicky Boykis [blog](http://veekaybee.github.io/)
 - Andrew Gelman [blog](https://statmodeling.stat.columbia.edu/)
+- A. Solomon Kurz [blog](https://solomonkurz.netlify.com/post/)
+- Matti Vuorre [blog](https://vuorre.netlify.com/)
 
 Sites:
 - [DominoDatalab](https://blog.dominodatalab.com/)
