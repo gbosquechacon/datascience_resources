@@ -6,6 +6,7 @@ Books:
 5. [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/) by Richard McElreath.
 
 Articles, Posts:
+- [The AI Hierarchy of Needs](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007)
 - [The Data Science Venn Diagram](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram)
 - [Information Platforms and the Rise of the Data Scientist](https://lintool.github.io/UMD-courses/bigdata-2015-Spring/content/Hammerbacher_2009.pdf)
 - [Scaling Knowledge at Airbnb](https://medium.com/airbnb-engineering/scaling-knowledge-at-airbnb-875d73eff091)
