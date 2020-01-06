@@ -24,12 +24,14 @@ People & Blogs:
 7. Vincent D. Warmerdam [blog](http://koaning.io/)
 8. Chris Albon [blog](https://chrisalbon.com/)
 9. Monica Rogati [twitter](https://twitter.com/mrogati)
+10.Vicky Boykis [blog](http://veekaybee.github.io/)
 
 Sites:
 - [DominoDatalab](https://blog.dominodatalab.com/)
 - [Towards Data Science](https://towardsdatascience.com/)
 - [MIT Technology Review](https://www.technologyreview.com/)
 - [Harvard Data Science Review](https://hdsr.mitpress.mit.edu/)
+- [Data Science Reddit](https://www.reddit.com/r/datascience/)
 
 Extras:
 - [Python Plotting for Exploratory Data Analysis](https://pythonplot.com/)
