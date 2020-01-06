@@ -36,9 +36,10 @@ Sites:
 - [Berkeley Artificial Intelligence Research](https://bair.berkeley.edu/blog/)
 - [Airbnb Data Science](https://medium.com/airbnb-engineering/tagged/data-science)
 
-Extras:
+Useful links:
 - [Python Plotting for Exploratory Data Analysis](https://pythonplot.com/)
 - [Statistical and Machine Learning forecasting methods: Concerns and ways forward](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0194889)
+- [Plotnine: Grammar of Graphics for Python](https://www.datascienceworkshops.com/blog/plotnine-grammar-of-graphics-for-python/)
 
 Podcasts:
 - [Linear Disgressions](http://lineardigressions.com/)
