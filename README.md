@@ -6,9 +6,9 @@ Books:
 5. [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/) by Richard McElreath.
 
 Articles, Posts:
-1. [Python Plotting for Exploratory Data Analysis](https://pythonplot.com/)
-2. [Scaling Knowledge at Airbnb](https://medium.com/airbnb-engineering/scaling-knowledge-at-airbnb-875d73eff091)
-3. [The Scientific Paper is obsolete](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/)
+- [Information Platforms and the Rise of the Data Scientist](https://lintool.github.io/UMD-courses/bigdata-2015-Spring/content/Hammerbacher_2009.pdf)
+- [Scaling Knowledge at Airbnb](https://medium.com/airbnb-engineering/scaling-knowledge-at-airbnb-875d73eff091)
+- [The Scientific Paper is obsolete](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/)
 
 Talks:
 
@@ -21,3 +21,5 @@ People & Blogs:
 6. Sebastian Ruder [blog](https://ruder.io/)
 7. Vincent D. Warmerdam [blog](http://koaning.io/)
 8. Chris Albon [blog](https://chrisalbon.com/)
+
+- [Python Plotting for Exploratory Data Analysis](https://pythonplot.com/)
