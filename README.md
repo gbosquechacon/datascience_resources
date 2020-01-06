@@ -7,6 +7,8 @@ Books:
 
 Articles, Posts:
 1. [Python Plotting for Exploratory Data Analysis](https://pythonplot.com/)
+2. [Scaling Knowledge at Airbnb](https://medium.com/airbnb-engineering/scaling-knowledge-at-airbnb-875d73eff091)
+3. [The Scientific Paper is obsolete](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/)
 
 Talks:
 
