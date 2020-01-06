@@ -25,6 +25,7 @@ People & Blogs:
 - Chris Albon [blog](https://chrisalbon.com/)
 - Monica Rogati [twitter](https://twitter.com/mrogati)
 - Vicky Boykis [blog](http://veekaybee.github.io/)
+- Andre Gelman [blog](https://statmodeling.stat.columbia.edu/)
 
 Sites:
 - [DominoDatalab](https://blog.dominodatalab.com/)
