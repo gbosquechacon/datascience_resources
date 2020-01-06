@@ -6,6 +6,7 @@ Books:
 5. [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/) by Richard McElreath.
 
 Articles, Posts:
+1. [Python Plotting for Exploratory Data Analysis](https://pythonplot.com/)
 
 Talks:
 
