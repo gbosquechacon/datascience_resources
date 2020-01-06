@@ -29,7 +29,11 @@ Sites:
 - [DominoDatalab](https://blog.dominodatalab.com/)
 - [Towards Data Science](https://towardsdatascience.com/)
 - [MIT Technology Review](https://www.technologyreview.com/)
+- [Harvard Data Science Review](https://hdsr.mitpress.mit.edu/)
 
 Extras:
 - [Python Plotting for Exploratory Data Analysis](https://pythonplot.com/)
 - [Statistical and Machine Learning forecasting methods: Concerns and ways forward](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0194889)
+
+Podcasts:
+- [Linear Disgressions](http://lineardigressions.com/)
