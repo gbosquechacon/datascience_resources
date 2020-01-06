@@ -25,5 +25,11 @@ People & Blogs:
 8. Chris Albon [blog](https://chrisalbon.com/)
 9. Monica Rogati [twitter](https://twitter.com/mrogati)
 
+Sites:
+- [DominoDatalab](https://blog.dominodatalab.com/)
+- [Towards Data Science](https://towardsdatascience.com/)
+- [MIT Technology Review](https://www.technologyreview.com/)
+
+Extras:
 - [Python Plotting for Exploratory Data Analysis](https://pythonplot.com/)
 - [Statistical and Machine Learning forecasting methods: Concerns and ways forward](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0194889)
