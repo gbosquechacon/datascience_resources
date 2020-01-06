@@ -23,5 +23,6 @@ People & Blogs:
 6. Sebastian Ruder [blog](https://ruder.io/)
 7. Vincent D. Warmerdam [blog](http://koaning.io/)
 8. Chris Albon [blog](https://chrisalbon.com/)
+9. Monica Rogati [twitter](https://twitter.com/mrogati)
 
 - [Python Plotting for Exploratory Data Analysis](https://pythonplot.com/)
