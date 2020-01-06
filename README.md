@@ -15,3 +15,6 @@ People & Blogs:
 3. James Somers [site](https://jsomers.net/)
 4. Cassie Kozyrkov [medium](https://medium.com/@kozyrkov) and [podcast](https://soundcloud.com/cassie-kozyrkov/sets)
 5. Chris Fonnesbeck [git](https://github.com/fonnesbeck)
+6. Sebastian Ruder [blog](https://ruder.io/)
+7. Vincent D. Warmerdam [blog](http://koaning.io/)
+8. Chris Albon [blog](https://chrisalbon.com/)
