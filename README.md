@@ -49,3 +49,4 @@ Useful links:
 
 Podcasts:
 - [Linear Disgressions](http://lineardigressions.com/)
+- [The Artificial Intelligence podcast](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
