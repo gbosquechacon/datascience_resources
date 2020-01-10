@@ -16,6 +16,7 @@ Posts:
 - [What is the Most Effective Way to Structure a Data Science Team](https://towardsdatascience.com/what-is-the-most-effective-way-to-structure-a-data-science-team-498041b88dae)
 - [At Airbnb Data Belongs Everywhere](https://medium.com/airbnb-engineering/at-airbnb-data-science-belongs-everywhere-917250c6beba)
 -[Engineers Shouldn’t Write ETL](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/)
+- [Let Curiosity Drive](https://multithreaded.stitchfix.com/blog/2019/01/18/fostering-innovation-in-data-science/)
 
 Talks:
 
