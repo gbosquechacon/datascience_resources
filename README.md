@@ -5,8 +5,14 @@ This is a small collection of very curated resources centered in Data Science, M
 Some of them I read or follow daily or weekly and some I just have a look at every once in a while to see what's up. I hope you find them as interesting as I do.
 
 ## Books:
+
+The only two technical textbooks that I have read from first two last page are the Statistical Learning pair:
+
 - [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/) by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani.
 - [Elements of Statisitcal Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) by Trevor Hastie, Robert Tibshirani and Jerome Friedman.
+
+By far the most useful. Very well structured, entertaining and located in the sweetspot of introductory and reference textbook. I think I have read at least 3 times the chapter on Model Selection of the first book. If you have time and interest to read two books regarding ML, just read these two. Period.
+
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen.
 - [Dive into Deep Learning](http://d2l.ai/index.html) by Aston Zhang, Zack C. Lipton, Mu Li and Alex J. Smola.
 - [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/) by Richard McElreath.
