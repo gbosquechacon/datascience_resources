@@ -14,6 +14,7 @@ Articles, Posts:
 - [Why Managing Data Scientists is Different](http://sloanreview.mit.edu/article/why-managing-data-scientists-is-different/)
 - [Be aware the data science pin factory](https://multithreaded.stitchfix.com/blog/2019/03/11/FullStackDS-Generalists/)
 - [What is the Most Effective Way to Structure a Data Science Team](https://towardsdatascience.com/what-is-the-most-effective-way-to-structure-a-data-science-team-498041b88dae)
+- [At Airbnb Data Belongs Everywhere](https://medium.com/airbnb-engineering/at-airbnb-data-science-belongs-everywhere-917250c6beba)
 
 Talks:
 
