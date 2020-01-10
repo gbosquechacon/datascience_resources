@@ -69,6 +69,7 @@ By far the most useful. Very well structured, entertaining and located in the sw
 - [The Artificial Intelligence podcast](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
 - [Talking Machines](https://www.thetalkingmachines.com/episodes)
 - [Data Skeptic](https://dataskeptic.com/podcast?limit=10&offset=0)
+- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 
 Useful links:
 - [Python Plotting for Exploratory Data Analysis](https://pythonplot.com/)
