@@ -1,4 +1,4 @@
-# What to read, listen and watch in Data Science and Machine Learning
+# What to read, listen to and watch in Data Science
 
 Books:
 - [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/) by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani.
