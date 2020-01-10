@@ -1,3 +1,5 @@
+# What to read, listen and watch in Data Science and Machine Learning
+
 Books:
 - [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/) by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani.
 - [Elements of Statisitcal Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) by Trevor Hastie, Robert Tibshirani and Jerome Friedman.
