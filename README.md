@@ -34,6 +34,7 @@ People & Blogs:
 - Andrew Gelman [blog](https://statmodeling.stat.columbia.edu/)
 - A. Solomon Kurz [blog](https://solomonkurz.netlify.com/post/)
 - Matti Vuorre [blog](https://vuorre.netlify.com/)
+- Eric Colson [twitter](https://twitter.com/ericcolson?lang=en)
 
 Sites:
 - [DominoDatalab](https://blog.dominodatalab.com/)
