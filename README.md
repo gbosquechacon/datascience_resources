@@ -5,7 +5,7 @@ Books:
 - [Dive into Deep Learning](http://d2l.ai/index.html) by Aston Zhang, Zack C. Lipton, Mu Li and Alex J. Smola.
 - [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/) by Richard McElreath.
 
-Articles, Posts:
+Posts:
 - [The AI Hierarchy of Needs](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007)
 - [The Data Science Venn Diagram](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram)
 - [Information Platforms and the Rise of the Data Scientist](https://lintool.github.io/UMD-courses/bigdata-2015-Spring/content/Hammerbacher_2009.pdf)
@@ -15,6 +15,7 @@ Articles, Posts:
 - [Be aware the data science pin factory](https://multithreaded.stitchfix.com/blog/2019/03/11/FullStackDS-Generalists/)
 - [What is the Most Effective Way to Structure a Data Science Team](https://towardsdatascience.com/what-is-the-most-effective-way-to-structure-a-data-science-team-498041b88dae)
 - [At Airbnb Data Belongs Everywhere](https://medium.com/airbnb-engineering/at-airbnb-data-science-belongs-everywhere-917250c6beba)
+-[Engineers Shouldn’t Write ETL](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/)
 
 Talks:
 
