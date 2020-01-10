@@ -49,6 +49,7 @@ Useful links:
 - [Plotnine: Grammar of Graphics for Python](https://www.datascienceworkshops.com/blog/plotnine-grammar-of-graphics-for-python/)
 - [Full Stack Python](https://www.fullstackpython.com/)
 - [Stich Fix algorithms tour](https://algorithms-tour.stitchfix.com/)
+- [Backpropagation algorithm interative explanation](https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/)
 
 Podcasts:
 - [Linear Disgressions](http://lineardigressions.com/)
