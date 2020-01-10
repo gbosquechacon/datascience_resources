@@ -12,6 +12,7 @@ Articles, Posts:
 - [Scaling Knowledge at Airbnb](https://medium.com/airbnb-engineering/scaling-knowledge-at-airbnb-875d73eff091)
 - [The Scientific Paper is obsolete](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/)
 - [Why Managing Data Scientists is Different](http://sloanreview.mit.edu/article/why-managing-data-scientists-is-different/)
+- [Be aware the data science pin factory](https://multithreaded.stitchfix.com/blog/2019/03/11/FullStackDS-Generalists/)
 
 Talks:
 
