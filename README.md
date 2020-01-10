@@ -19,6 +19,8 @@ Posts:
 - [Let Curiosity Drive](https://multithreaded.stitchfix.com/blog/2019/01/18/fostering-innovation-in-data-science/)
 
 Talks:
+- [Deep Learning State of the Art 2019](https://www.youtube.com/watch?v=53YvP6gdD7U)
+- [Deep Learning State of the Art 2020](https://www.youtube.com/watch?v=0VH1Lim8gL8)
 
 People & Blogs:
 - Jason Brownlee [blog](https://machinelearningmastery.com/blog/)
@@ -35,6 +37,7 @@ People & Blogs:
 - A. Solomon Kurz [blog](https://solomonkurz.netlify.com/post/)
 - Matti Vuorre [blog](https://vuorre.netlify.com/)
 - Eric Colson [twitter](https://twitter.com/ericcolson?lang=en)
+- Lex Fridman [twitter](https://twitter.com/lexfridman?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
 Sites:
 - [DominoDatalab](https://blog.dominodatalab.com/)
@@ -47,6 +50,7 @@ Sites:
 - [Deepmind](https://deepmind.com/blog)
 - [Google AI](https://blog.google/technology/ai/)
 - [Open AI](https://openai.com/blog/)
+- [The Batch](https://www.deeplearning.ai/thebatch/)
 
 Useful links:
 - [Python Plotting for Exploratory Data Analysis](https://pythonplot.com/)
@@ -59,3 +63,6 @@ Useful links:
 Podcasts:
 - [Linear Disgressions](http://lineardigressions.com/)
 - [The Artificial Intelligence podcast](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
+- [Talking Machines](https://www.thetalkingmachines.com/episodes)
+- [Data Skeptic](https://dataskeptic.com/podcast?limit=10&offset=0)
+- [The Batch](https://www.deeplearning.ai/thebatch/)
