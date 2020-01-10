@@ -1,13 +1,17 @@
 # What to read, listen to and watch in Data Science
 
-Books:
+This is a small collection of very curated resources centered in Data Science, Machine Learning and Artificial Intelligente. These resources vary but in general they are not a collection of state of the art academic papers. They are more a collection of posts, talks and lectures that have defined and shaped what Data Science and Applied Machine Learning are today. What's important, what's not, how to work, how not to work, etc. Some of these resources have been copied shamelessly all over the internet but here you can find the original sources. It's more of a personal collection for me to understand the industry that I work in and not to lose sight to what's important and what's just hype. Honest, rigorous, thoughtful and relevant reflections about what Data Science is and should be.
+
+Some of them I read or follow daily or weekly and some I just have a look at every once in a while to see what's up. I hope you find them as interesting as I do.
+
+## Books:
 - [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/) by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani.
 - [Elements of Statisitcal Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) by Trevor Hastie, Robert Tibshirani and Jerome Friedman.
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen.
 - [Dive into Deep Learning](http://d2l.ai/index.html) by Aston Zhang, Zack C. Lipton, Mu Li and Alex J. Smola.
 - [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/) by Richard McElreath.
 
-Posts:
+## Posts:
 - [The AI Hierarchy of Needs](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007)
 - [The Data Science Venn Diagram](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram)
 - [Information Platforms and the Rise of the Data Scientist](https://lintool.github.io/UMD-courses/bigdata-2015-Spring/content/Hammerbacher_2009.pdf)
@@ -20,11 +24,11 @@ Posts:
 -[Engineers Shouldn’t Write ETL](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/)
 - [Let Curiosity Drive](https://multithreaded.stitchfix.com/blog/2019/01/18/fostering-innovation-in-data-science/)
 
-Talks:
+## Talks:
 - [Deep Learning State of the Art 2019](https://www.youtube.com/watch?v=53YvP6gdD7U)
 - [Deep Learning State of the Art 2020](https://www.youtube.com/watch?v=0VH1Lim8gL8)
 
-People & Blogs:
+## People & Blogs:
 - Jason Brownlee [blog](https://machinelearningmastery.com/blog/)
 - Jack VanderPlas [site](http://vanderplas.com/)
 - James Somers [site](https://jsomers.net/)
@@ -41,7 +45,7 @@ People & Blogs:
 - Eric Colson [twitter](https://twitter.com/ericcolson?lang=en)
 - Lex Fridman [twitter](https://twitter.com/lexfridman?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
-Sites:
+## Sites:
 - [DominoDatalab](https://blog.dominodatalab.com/)
 - [Towards Data Science](https://towardsdatascience.com/)
 - [MIT Technology Review](https://www.technologyreview.com/)
@@ -54,6 +58,12 @@ Sites:
 - [Open AI](https://openai.com/blog/)
 - [The Batch](https://www.deeplearning.ai/thebatch/)
 
+## Podcasts:
+- [Linear Disgressions](http://lineardigressions.com/)
+- [The Artificial Intelligence podcast](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
+- [Talking Machines](https://www.thetalkingmachines.com/episodes)
+- [Data Skeptic](https://dataskeptic.com/podcast?limit=10&offset=0)
+
 Useful links:
 - [Python Plotting for Exploratory Data Analysis](https://pythonplot.com/)
 - [Statistical and Machine Learning forecasting methods: Concerns and ways forward](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0194889)
@@ -61,9 +71,3 @@ Useful links:
 - [Full Stack Python](https://www.fullstackpython.com/)
 - [Stich Fix algorithms tour](https://algorithms-tour.stitchfix.com/)
 - [Backpropagation algorithm interative explanation](https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/)
-
-Podcasts:
-- [Linear Disgressions](http://lineardigressions.com/)
-- [The Artificial Intelligence podcast](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
-- [Talking Machines](https://www.thetalkingmachines.com/episodes)
-- [Data Skeptic](https://dataskeptic.com/podcast?limit=10&offset=0)
