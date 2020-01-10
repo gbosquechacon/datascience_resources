@@ -48,6 +48,7 @@ Useful links:
 - [Statistical and Machine Learning forecasting methods: Concerns and ways forward](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0194889)
 - [Plotnine: Grammar of Graphics for Python](https://www.datascienceworkshops.com/blog/plotnine-grammar-of-graphics-for-python/)
 - [Full Stack Python](https://www.fullstackpython.com/)
+- [Stich Fix algorithms tour](https://algorithms-tour.stitchfix.com/)
 
 Podcasts:
 - [Linear Disgressions](http://lineardigressions.com/)
