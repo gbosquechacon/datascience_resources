@@ -6,7 +6,7 @@ Some of them I read or follow daily or weekly and some I just have a look at eve
 
 ## Books:
 
-The only two technical textbooks that I have read from first two last page are the Statistical Learning pair:
+The only two technical textbooks that I have read from the first to the last page are the Statistical Learning pair:
 
 - [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/) by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani.
 - [Elements of Statisitcal Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) by Trevor Hastie, Robert Tibshirani and Jerome Friedman.
