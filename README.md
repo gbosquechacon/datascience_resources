@@ -65,4 +65,3 @@ Podcasts:
 - [The Artificial Intelligence podcast](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
 - [Talking Machines](https://www.thetalkingmachines.com/episodes)
 - [Data Skeptic](https://dataskeptic.com/podcast?limit=10&offset=0)
-- [The Batch](https://www.deeplearning.ai/thebatch/)
