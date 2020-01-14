@@ -63,6 +63,7 @@ By far the most useful. Very well structured, entertaining and located in the sw
 - [Google AI](https://blog.google/technology/ai/)
 - [Open AI](https://openai.com/blog/)
 - [The Batch](https://www.deeplearning.ai/thebatch/)
+- [Hackernoon AI](https://hackernoon.com/tagged/ai)
 
 ## Podcasts:
 - [Linear Disgressions](http://lineardigressions.com/)
