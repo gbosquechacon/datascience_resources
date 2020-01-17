@@ -13,7 +13,7 @@ The only two technical textbooks that I have read from the first to the last pag
 
 By far the most useful. Very well structured, entertaining and located in the sweetspot of introductory and reference textbook. I think I have read at least 3 times the chapter on Model Selection of the first book. If you have time and interest to read two books regarding ML, just read these two. Period.
 
-Lately I have been trying to learn the basics of Deep Learning in a more rigorous way. I did the [Deep Learning coursera specialization](https://www.coursera.org/specializations/deep-learning) which I completely recomend but for quick doubts or to refresh stuff I usually consult the following two ebooks:
+Lately I have been trying to learn the basics of Deep Learning in a more rigorous way. I did the [Deep Learning coursera specialization](https://www.coursera.org/specializations/deep-learning) which I completely recommend but for quick doubts or to refresh stuff I usually consult the following two ebooks:
 
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen.
 - [Dive into Deep Learning](http://d2l.ai/index.html) by Aston Zhang, Zack C. Lipton, Mu Li and Alex J. Smola.
