@@ -13,8 +13,15 @@ The only two technical textbooks that I have read from the first to the last pag
 
 By far the most useful. Very well structured, entertaining and located in the sweetspot of introductory and reference textbook. I think I have read at least 3 times the chapter on Model Selection of the first book. If you have time and interest to read two books regarding ML, just read these two. Period.
 
+Lately I have been trying to learn the basics of Deep Learning in a more rigorous way. I did the [Deep Learning coursera specialization(https://www.coursera.org/specializations/deep-learning?utm_source=gg&utm_medium=sem&utm_content=17-DeepLearning-ROW&campaignid=6465471773&adgroupid=77415260637&device=c&keyword=coursera%20deep%20learning%20ai&matchtype=b&network=g&devicemodel=&adpostion=1t1&creativeid=379493133115&hide_mobile_promo&gclid=EAIaIQobChMI34_5jJOK5wIVS9HeCh3TawkmEAAYASAAEgIswPD_BwE#about) which I completely recomend but for quick doubts or to refresh stuff I usually consult the following two ebooks:
+
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen.
 - [Dive into Deep Learning](http://d2l.ai/index.html) by Aston Zhang, Zack C. Lipton, Mu Li and Alex J. Smola.
+
+The Nielsen one is my go-to resource when I need to solve some quick doubt regarding DL. It's rigorous, practical, thoughful and damn useful.
+
+Finally, my favourite technical book I have ever read: Statistical Rethinking by Professor Richard McElreath. I feel sometimes that statistical rigour is a casualty in the hype war of Machine Learning and it's such a shame. I believe most of the problems we face as data scientists are solvable with coherent data, simple models and rigorous statistical analysis. Professor McElreath focuses on Bayesian statistics but it starts from very basic concepts such as uncertainty, probability and such and works from there. Even if in your day to day work to mainly use frequency-based statistics (which is totally fine by the way) being able to think in a more bayesian way is very useful and very healthy.
+
 - [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/) by Richard McElreath.
 
 ## Posts:
