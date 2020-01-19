@@ -25,7 +25,11 @@ Finally, my favourite technical book I have ever read: Statistical Rethinking by
 - [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/) by Richard McElreath.
 
 ## Posts:
-- [The AI Hierarchy of Needs](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007)
+
+It seems that nowadays everybody writes Da Science posts. About anything really: DL, ML engineering, communication, A/B testing, etc. The vast majority of them are just useless. I don't want to sound harsh but it's the truth. It looks like as a mandatory part of your career development you have to publish regularly. Having something to say, sadly, is not that common. However,among them you can find some useful and just a few over the years that I find truly exceptional in some sense. I curated a personal collection of my personal favourites. In general they are not very technical, most of them focus on the nature of our job, what to do, how to bring real value, how to organize, etc. I hope you find them useful:
+
+- [The AI Hierarchy of Needs](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007) by Monica Rogati. You have probably seen her piramide-shaped figure of DS needs all over the internet, copied shamelessly. This is the original source, accompanied by a wonderful article. To this day I consider it the best description of DS needs any organization can have.
+
 - [The Data Science Venn Diagram](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram)
 - [Information Platforms and the Rise of the Data Scientist](https://lintool.github.io/UMD-courses/bigdata-2015-Spring/content/Hammerbacher_2009.pdf)
 - [Scaling Knowledge at Airbnb](https://medium.com/airbnb-engineering/scaling-knowledge-at-airbnb-875d73eff091)
