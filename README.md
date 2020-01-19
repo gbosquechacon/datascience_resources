@@ -32,7 +32,7 @@ It seems that nowadays everybody writes Da Science posts. About anything really:
 
 - [The Data Science Venn Diagram](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram) by Drew Conway. Best description of what Data Science really is and what is composed of. Hacking skills, Math&Statistics and Substantive Expertise or Business domain. That's about it. Simple, true, elegantly displayed.
 
-- [Information Platforms and the Rise of the Data Scientist](https://lintool.github.io/UMD-courses/bigdata-2015-Spring/content/Hammerbacher_2009.pdf) by Jeff Hammerbacher. Jeff led the data team at Facebook and later cofounded Coursera. During his time in Facebook he provided the best definition to an emerging role he and other during that time called Data Scientist. His definition has not changed much in more than a decade:
+- [Information Platforms and the Rise of the Data Scientist](https://lintool.github.io/UMD-courses/bigdata-2015-Spring/content/Hammerbacher_2009.pdf) by Jeff Hammerbacher. Jeff led the data team at Facebook and later cofounded Coursera. During his time in Facebook he came up with a great definition to an emerging role at the time: the data scientist. A decade later his definition is still on point:
 
 _At Facebook, we felt that traditional titles such as Business Analyst, Statistician, Engineer,
 and Research Scientist didn’t quite capture what we were after for our team. The workload for the role was diverse: on any given day, a team member could author a multistage
