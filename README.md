@@ -30,7 +30,8 @@ It seems that nowadays everybody writes Da Science posts. About anything really:
 
 - [The AI Hierarchy of Needs](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007) by Monica Rogati. You have probably seen her piramide-shaped figure of DS needs all over the internet, copied shamelessly. This is the original source, accompanied by a wonderful article. To this day I consider it the best description of DS needs any organization can have.
 
-- [The Data Science Venn Diagram](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram)
+- [The Data Science Venn Diagram](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram) by Drew Conway. Best description of what Data Science really is and what is composed of. Hacking skills, Math&Statistics and Substantive Expertise or Business domain. That's about it. Simple, true, elegantly displayed.
+
 - [Information Platforms and the Rise of the Data Scientist](https://lintool.github.io/UMD-courses/bigdata-2015-Spring/content/Hammerbacher_2009.pdf)
 - [Scaling Knowledge at Airbnb](https://medium.com/airbnb-engineering/scaling-knowledge-at-airbnb-875d73eff091)
 - [The Scientific Paper is obsolete](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/)
