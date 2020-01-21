@@ -42,13 +42,9 @@ or service in Hadoop, or communicate the results of our analyses to other member
 organization in a clear and concise fashion. To capture the skill set required to perform this
 multitude of tasks, we created the role of “Data Scientist.”_
 
-- [Scaling Knowledge at Airbnb](https://medium.com/airbnb-engineering/scaling-knowledge-at-airbnb-875d73eff091)
+- [Scaling Knowledge at Airbnb](https://medium.com/airbnb-engineering/scaling-knowledge-at-airbnb-875d73eff091) by Chetan Sharma and Jan Overgoor. As important of doing Data Science is communicating it. IMHO Airbnb is the best company out there doing knowledge communication within it structure. The concept is especially important when a company is in hyper-growth state. How do we make the insights we produce from data spread throughout the whole organization? Here's the answer.
 
-As important of doing Data Science is communicating it. IMHO Airbnb is the best company out there doing knowledge communication within it structure. The concept is especially important when a company is in hyper-growth state. How do we make the insights we produce from data spread throughout the whole organization? Here's the answer.
-
-- [The Scientific Paper is obsolete](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/)
-
-This is a more general, less operational post. It deals with the form in which we communicate science and knowledge in general and how now more than ever it needs an interactive approach if possible. Good examples of this approach are the [Backpropagation algorithm interative explanation](https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/), the [redesign](http://worrydream.com/ScientificCommunicationAsSequentialArt/) of the famous 'Small world' networks by Watts and Strogatz or the [Stich Fix algorithms tour](https://algorithms-tour.stitchfix.com/). They all are rigorous scientific and interactive representations of several topics.
+- [The Scientific Paper is obsolete](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/) by James Somers. This is a more general, less operational post. It deals with the form in which we communicate science and knowledge in general and how now more than ever it needs an interactive approach if possible. Good examples of this approach are the [Backpropagation algorithm interative explanation](https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/), the [redesign](http://worrydream.com/ScientificCommunicationAsSequentialArt/) of the famous 'Small world' networks by Watts and Strogatz or the [Stich Fix algorithms tour](https://algorithms-tour.stitchfix.com/). They all are rigorous scientific and interactive representations of several topics.
 
 - [Why Managing Data Scientists is Different](http://sloanreview.mit.edu/article/why-managing-data-scientists-is-different/)
 - [Be aware the data science pin factory](https://multithreaded.stitchfix.com/blog/2019/03/11/FullStackDS-Generalists/)
