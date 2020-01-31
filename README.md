@@ -110,6 +110,6 @@ Useful links:
 - [Reinforcement Learning: An Introduction book](http://incompleteideas.net/book/the-book-2nd.html)
 - [Introduction to Deep Reinforcement Learning talk](https://www.youtube.com/watch?v=zR11FLZ-O9M)
 - [MIT 6.S191: Deep Reinforcement Learning](https://www.youtube.com/watch?v=i6Mi2_QM3rA)
-- [UC Berkeley Deep Reinforcement Learning course](http://rail.eecs.berkeley.edu/deeprlcourse/)
+- [UC Berkeley Deep Reinforcement Learning course](http://rail.eecs.berkeley.edu/deeprlcourse/) and [git](https://github.com/berkeleydeeprlcourse)
 - [UCL David Silver course on Reinforced Learning](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 - [UCL DeepMind DL+RL course](https://www.youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
