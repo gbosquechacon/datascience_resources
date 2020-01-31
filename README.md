@@ -107,7 +107,7 @@ Useful links:
 - [Newbies Guide to Study Reinforcement Learning](https://towardsdatascience.com/newbies-guide-to-study-reinforcement-learning-8b9002eff643)
 - [Udacity Deep Reinforcement Learning](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893)
 - [Coursera Practical Reinforcement Learning course](https://www.coursera.org/learn/practical-rl/)
-- [Reinforcement Learning: An Introduction book](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+- [Reinforcement Learning: An Introduction book](http://incompleteideas.net/book/the-book-2nd.html)
 - [Introduction to Deep Reinforcement Learning talk](https://www.youtube.com/watch?v=zR11FLZ-O9M)
 - [MIT 6.S191: Deep Reinforcement Learning](https://www.youtube.com/watch?v=i6Mi2_QM3rA)
 - [UC Berkeley Deep Reinforcement Learning course](http://rail.eecs.berkeley.edu/deeprlcourse/)
