@@ -100,3 +100,16 @@ Useful links:
 - [Statistical and Machine Learning forecasting methods: Concerns and ways forward](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0194889)
 - [Plotnine: Grammar of Graphics for Python](https://www.datascienceworkshops.com/blog/plotnine-grammar-of-graphics-for-python/)
 - [Full Stack Python](https://www.fullstackpython.com/)
+
+
+## Reinforcement Learning
+
+- [Newbies Guide to Study Reinforcement Learning](https://towardsdatascience.com/newbies-guide-to-study-reinforcement-learning-8b9002eff643)
+- [Udacity Deep Reinforcement Learning](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893)
+- [Coursera Practical Reinforcement Learning course](https://www.coursera.org/learn/practical-rl/)
+- [Reinforcement Learning: An Introduction book](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+- [Introduction to Deep Reinforcement Learning talk](https://www.youtube.com/watch?v=zR11FLZ-O9M)
+- [MIT 6.S191: Deep Reinforcement Learning](https://www.youtube.com/watch?v=i6Mi2_QM3rA)
+- [UC Berkeley Deep Reinforcement Learning course](http://rail.eecs.berkeley.edu/deeprlcourse/)
+- [UCL David Silver course on Reinforced Learning](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+- [UCL DeepMind DL+RL course](https://www.youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
