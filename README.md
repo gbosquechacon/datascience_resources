@@ -20,6 +20,8 @@ Lately I have been trying to learn the basics of Deep Learning in a more rigorou
 
 The Nielsen one is my go-to resource when I need to solve some quick doubt regarding DL. It's rigorous, practical, thoughful and damn useful.
 
+In terms of Reinforcement Learning it will no surprise that I strongly recommend the Sutton and Barto classic [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html). I have not really gotten in RL in depth yet, but the chapters that I have read are all thoughtful, entertaining and as clear as a topic this complex can be.
+
 Finally, my favourite technical book I have ever read: Statistical Rethinking by Professor Richard McElreath. I feel sometimes that statistical rigour is a casualty in the hype war of Machine Learning and it's such a shame. I believe most of the problems we face as data scientists are solvable with coherent data, simple models and rigorous statistical analysis. Professor McElreath focuses on Bayesian statistics but it starts from very basic concepts such as uncertainty, probability and such and works from there. Even if in your day to day work you mainly use frequency-based statistics (which is totally fine by the way) being able to think in a more bayesian way is very useful and very healthy.
 
 - [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/) by Richard McElreath.
