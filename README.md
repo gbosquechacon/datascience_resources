@@ -70,6 +70,9 @@ There are many many very interesting talks regarding applied Data Science. This 
 - [Deep Learning State of the Art 2020](https://www.youtube.com/watch?v=0VH1Lim8gL8)
 
 ## People & Blogs:
+
+I follow (semi)-regularly several people from the Data Science scene. Some are more tech-savvy, some are more focused on scaling knowledge, management, statistics or communication. In no particular order of preference:
+
 - Jason Brownlee [blog](https://machinelearningmastery.com/blog/)
 - Jack VanderPlas [site](http://vanderplas.com/)
 - James Somers [site](https://jsomers.net/)
@@ -87,8 +90,10 @@ There are many many very interesting talks regarding applied Data Science. This 
 - Lex Fridman [twitter](https://twitter.com/lexfridman?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
 ## Sites:
+
+Besides particular individuals I read a few sites/blog every once in a while. Probably the most famous and mainstream one is [Towards Data Science](https://towardsdatascience.com/) but there are others just as good if not better. Here they are:
+
 - [DominoDatalab](https://blog.dominodatalab.com/)
-- [Towards Data Science](https://towardsdatascience.com/)
 - [MIT Technology Review](https://www.technologyreview.com/)
 - [Harvard Data Science Review](https://hdsr.mitpress.mit.edu/)
 - [Data Science Reddit](https://www.reddit.com/r/datascience/)
@@ -101,15 +106,17 @@ There are many many very interesting talks regarding applied Data Science. This 
 - [Hackernoon AI](https://hackernoon.com/tagged/ai)
 
 ## Podcasts:
+
+There are just as many data related podcasts as there are blogs. The only I listen frequently is [The Artificial Intelligence podcast](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4) because of the extremely interesting guests that Lex Fridman is able to book. Not only people working on Data Science or Artificial Intelligente but science in general, economics, phylosophy, business, etc. The rest I listen sometimes when I travel.
+
 - [Linear Disgressions](http://lineardigressions.com/)
-- [The Artificial Intelligence podcast](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
 - [Talking Machines](https://www.thetalkingmachines.com/episodes)
 - [Data Skeptic](https://dataskeptic.com/podcast?limit=10&offset=0)
-- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+
+[3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) deserves especial mention. It's a Youtube channel really, not a podcast. I have never ever seen complex mathematical topics explained in such an interesting, engaging and plan fun way. Asbolutely spectacular content. It never ceases to surprise me.
 
 Useful links:
 - [Python Plotting for Exploratory Data Analysis](https://pythonplot.com/)
-- [Statistical and Machine Learning forecasting methods: Concerns and ways forward](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0194889)
 - [Plotnine: Grammar of Graphics for Python](https://www.datascienceworkshops.com/blog/plotnine-grammar-of-graphics-for-python/)
 - [Full Stack Python](https://www.fullstackpython.com/)
 
