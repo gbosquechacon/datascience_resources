@@ -115,13 +115,9 @@ There are just as many data related podcasts as there are blogs. The only I list
 
 [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) deserves especial mention. It's a Youtube channel really, not a podcast. I have never ever seen complex mathematical topics explained in such an interesting, engaging and plan fun way. Asbolutely spectacular content. It never ceases to surprise me.
 
-Useful links:
-- [Python Plotting for Exploratory Data Analysis](https://pythonplot.com/)
-- [Plotnine: Grammar of Graphics for Python](https://www.datascienceworkshops.com/blog/plotnine-grammar-of-graphics-for-python/)
-- [Full Stack Python](https://www.fullstackpython.com/)
-
-
 ## Reinforcement Learning
+
+RL is one of the most promising and powerful branches of Machine Learning. Unfortunately, there is not a corpus of courses/tutorials that cover the full spectrum from basic stuff to AlphaStar. Information and knowledge are still very fragmented in a bunch of research groups, companies and institutions. As of February 2020, I think this is the most comprehensive collection of high quality resources. From DeepMind lectures to Berkeley to the first courses/specialization in the matter in Coursera.
 
 - [Newbies Guide to Study Reinforcement Learning](https://towardsdatascience.com/newbies-guide-to-study-reinforcement-learning-8b9002eff643)
 - [Udacity Deep Reinforcement Learning](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893)
@@ -133,3 +129,12 @@ Useful links:
 - [UC Berkeley Deep Reinforcement Learning course](http://rail.eecs.berkeley.edu/deeprlcourse/) and [git](https://github.com/berkeleydeeprlcourse)
 - [UCL David Silver course on Reinforced Learning](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 - [UCL DeepMind DL+RL course](https://www.youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
+
+## Useful links
+
+Finally, I usually dump here a few miscellanea links that I find useful about more general coding or data visualization.
+
+- [Python Plotting for Exploratory Data Analysis](https://pythonplot.com/)
+- [Plotnine: Grammar of Graphics for Python](https://www.datascienceworkshops.com/blog/plotnine-grammar-of-graphics-for-python/)
+- [Full Stack Python](https://www.fullstackpython.com/)
+
