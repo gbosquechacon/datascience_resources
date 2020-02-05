@@ -50,12 +50,17 @@ multitude of tasks, we created the role of “Data Scientist.”_
 
 - [The Scientific Paper is obsolete](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/) by James Somers. This is a more general, less operational post. It deals with the form in which we communicate science and knowledge in general and how now more than ever it needs an interactive approach if possible. Good examples of this approach are the [backpropagation algorithm interative explanation](https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/), the [redesign](http://worrydream.com/ScientificCommunicationAsSequentialArt/) of the famous 'Small world' networks by Watts and Strogatz or the [Stich Fix algorithms tour](https://algorithms-tour.stitchfix.com/). They all are rigorous scientific and interactive representations of several topics.
 
-- [Why Managing Data Scientists is Different](http://sloanreview.mit.edu/article/why-managing-data-scientists-is-different/)
-- [Be aware the data science pin factory](https://multithreaded.stitchfix.com/blog/2019/03/11/FullStackDS-Generalists/)
-- [What is the Most Effective Way to Structure a Data Science Team](https://towardsdatascience.com/what-is-the-most-effective-way-to-structure-a-data-science-team-498041b88dae)
-- [At Airbnb Data Belongs Everywhere](https://medium.com/airbnb-engineering/at-airbnb-data-science-belongs-everywhere-917250c6beba)
--[Engineers Shouldn’t Write ETL](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/)
-- [Let Curiosity Drive](https://multithreaded.stitchfix.com/blog/2019/01/18/fostering-innovation-in-data-science/)
+- [Why Managing Data Scientists is Different](http://sloanreview.mit.edu/article/why-managing-data-scientists-is-different/) by Roger M. Stein. Data Scientists are a curious bunch. If you ever find youself or transition into a managing position you should be aware of some things.
+
+- [Be aware the data science pin factory](https://multithreaded.stitchfix.com/blog/2019/03/11/FullStackDS-Generalists/) by Eric Colson. A profound and full-on defense of the full stack Data Scientist. A praise of flexibility and an attack on specialization. Really insightful.
+
+- [Let Curiosity Drive](https://multithreaded.stitchfix.com/blog/2019/01/18/fostering-innovation-in-data-science/) by Eric Colson. Very related to the previous post. On the advantages of innovation, experimentation and the importance of trying things out.
+
+- [What is the Most Effective Way to Structure a Data Science Team](https://towardsdatascience.com/what-is-the-most-effective-way-to-structure-a-data-science-team-498041b88dae) by Chuong Do. You will read versions of this post all over the internet. The eternal discussion of how to structure a Data Science team: embedded or centralized? This dicotomy is really well explained in here.
+
+- [At Airbnb Data Belongs Everywhere](https://medium.com/airbnb-engineering/at-airbnb-data-science-belongs-everywhere-917250c6beba) by Riley Newman. How do you scale a Data Science team? How do you grow the impact of Data Science within a company? How do you gain the trust of other branches of your organization? This is how Airbnb does it.
+
+-[Engineers Shouldn’t Write ETL](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/) by Jeff Magnusson. Who is who in a Data department? Who should do what? Very common misconceptions regarding ETLs, Big Data and another bunch of buzz words. Very insightful.
 
 ## Talks:
 - [Deep Learning State of the Art 2019](https://www.youtube.com/watch?v=53YvP6gdD7U)
