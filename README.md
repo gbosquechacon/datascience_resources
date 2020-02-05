@@ -20,7 +20,7 @@ Lately I have been trying to learn the basics of Deep Learning in a more rigorou
 
 The Nielsen one is my go-to resource when I need to solve some quick doubt regarding DL. It's rigorous, practical, thoughful and damn useful.
 
-In terms of Reinforcement Learning it will no surprise that I strongly recommend the Sutton and Barto classic
+In terms of Reinforcement Learning it will no surprise that I strongly recommend the Sutton and Barto classic:
 
 - [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html). I have not really gotten in RL in depth yet, but the chapters that I have read are all thoughtful, entertaining and as clear as a topic this complex can be.
 
