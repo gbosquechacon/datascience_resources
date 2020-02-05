@@ -113,7 +113,7 @@ There are just as many data related podcasts as there are blogs. The only I list
 - [Talking Machines](https://www.thetalkingmachines.com/episodes)
 - [Data Skeptic](https://dataskeptic.com/podcast?limit=10&offset=0)
 
-[3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) deserves especial mention. It's a Youtube channel really, not a podcast. I have never ever seen complex mathematical topics explained in such an interesting, engaging and plan fun way. Asbolutely spectacular content. It never ceases to surprise me.
+[3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) deserves especial mention. It's a Youtube channel really, not a podcast. I have never ever seen complex mathematical topics explained in such an interesting, engaging and plain fun way. Asbolutely spectacular content. It never ceases to surprise me.
 
 ## Reinforcement Learning
 
