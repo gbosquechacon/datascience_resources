@@ -52,9 +52,7 @@ multitude of tasks, we created the role of “Data Scientist.”_
 
 - [Why Managing Data Scientists is Different](http://sloanreview.mit.edu/article/why-managing-data-scientists-is-different/) by Roger M. Stein. Data Scientists are a curious bunch. If you ever find youself or transition into a managing position you should be aware of some things.
 
-- [Be aware the data science pin factory](https://multithreaded.stitchfix.com/blog/2019/03/11/FullStackDS-Generalists/) by Eric Colson. A profound and full-on defense of the full stack Data Scientist. A praise of flexibility and an attack on specialization. Really insightful.
-
-- [Let Curiosity Drive](https://multithreaded.stitchfix.com/blog/2019/01/18/fostering-innovation-in-data-science/) by Eric Colson. Very related to the previous post. On the advantages of innovation, experimentation and the importance of trying things out.
+- [Be aware the data science pin factory](https://multithreaded.stitchfix.com/blog/2019/03/11/FullStackDS-Generalists/) by and [Let Curiosity Drive](https://multithreaded.stitchfix.com/blog/2019/01/18/fostering-innovation-in-data-science/) Eric Colson. A profound and full-on defense of the full stack Data Scientist. A praise of flexibility and an attack on specialization. Really insightful. The second one is very related to the first. On the advantages of innovation, experimentation and the importance of trying things out.
 
 - [What is the Most Effective Way to Structure a Data Science Team](https://towardsdatascience.com/what-is-the-most-effective-way-to-structure-a-data-science-team-498041b88dae) by Chuong Do. You will read versions of this post all over the internet. The eternal discussion of how to structure a Data Science team: embedded or centralized? This dicotomy is really well explained in here.
 
