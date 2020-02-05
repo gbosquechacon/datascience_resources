@@ -60,9 +60,12 @@ multitude of tasks, we created the role of “Data Scientist.”_
 
 - [At Airbnb Data Belongs Everywhere](https://medium.com/airbnb-engineering/at-airbnb-data-science-belongs-everywhere-917250c6beba) by Riley Newman. How do you scale a Data Science team? How do you grow the impact of Data Science within a company? How do you gain the trust of other branches of your organization? This is how Airbnb does it.
 
--[Engineers Shouldn’t Write ETL](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/) by Jeff Magnusson. Who is who in a Data department? Who should do what? Very common misconceptions regarding ETLs, Big Data and another bunch of buzz words. Very insightful.
+- [Engineers Shouldn’t Write ETL](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/) by Jeff Magnusson. Who is who in a Data department? Who should do what? Very common misconceptions regarding ETLs, Big Data and another bunch of buzz words. Very insightful.
 
 ## Talks:
+
+There are many many very interesting talks regarding applied Data Science. This is definitely a WIP but I take as mandatory to watch the yearly update lecture on Deep Learning taught by Lex Fridman.
+
 - [Deep Learning State of the Art 2019](https://www.youtube.com/watch?v=53YvP6gdD7U)
 - [Deep Learning State of the Art 2020](https://www.youtube.com/watch?v=0VH1Lim8gL8)
 
